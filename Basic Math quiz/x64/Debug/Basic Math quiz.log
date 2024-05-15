@@ -1,0 +1,3 @@
+﻿  Basic Math quiz.cpp
+D:\c++ advanced\Basic Math quiz\Basic Math quiz.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Basic Math quiz.vcxproj -> D:\c++ advanced\Basic Math quiz\x64\Debug\Basic Math quiz.exe
